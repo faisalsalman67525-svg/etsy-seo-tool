@@ -37,7 +37,7 @@ Search live Etsy listings for any keyword, see which tags buyers actually love, 
 ### 2. Install
 
 ```bash
-git clone https://github.com/<your-username>/etsy-seo-tool.git
+git clone https://github.com/faisalsalman67525-svg/etsy-seo-tool.git
 cd etsy-seo-tool
 python -m venv .venv
 # Windows:
@@ -71,7 +71,7 @@ Paid Etsy research tools charge $10–30/month for the same public data. This on
 This project is free. If it saves you money, you can support it:
 
 - ⭐ Star the repo
-- 💚 [Sponsor on GitHub](https://github.com/sponsors/<your-username>) — $5/month keeps it maintained
+- 💚 [Sponsor on GitHub](https://github.com/sponsors/faisalsalman67525-svg) — $5/month keeps it maintained
 - 📘 The companion **Etsy SEO Playbook** (paid PDF guide) — link in the repo
 
 ## Contributing
