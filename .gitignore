@@ -1,0 +1,12 @@
+.env
+tokens.json
+tracker_snapshots.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/
+uploads/
+*.log
+*.csv
+*.xlsx
